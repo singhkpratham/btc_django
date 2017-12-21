@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="db.sqlite3" uuid="a667033f-5c1d-484a-bc1a-416ad703bcc8">
+      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:main</introspection-schemas>
+    </data-source>
+    <data-source name="Django default" uuid="c59c56c1-4504-4123-bab6-37d0345762fd">
+      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:main</introspection-schemas>
+    </data-source>
+    <data-source name="db.sqlite3 [2]" uuid="10cecad7-64c2-45e7-8ca9-e2f4004928fc">
+      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:main</introspection-schemas>
+    </data-source>
+  </component>
+</project>
